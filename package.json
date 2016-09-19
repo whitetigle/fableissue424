@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "fable-issue-424",
+  "version": "1.0.0",
+  "description": "test case for issue 424",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fable-core": "^0.6.3",
+    "requirejs": "^2.3.2"
+  }
+}
